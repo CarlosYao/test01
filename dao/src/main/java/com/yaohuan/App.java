@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "YAOHUAN2222222222222222222" );
         System.out.println("22222222222");
+        System.out.println( "YAOHUAN" );
+        System.out.println("1111");
     }
 }
